@@ -65,5 +65,18 @@ See [annotation_instructions_examples.pdf](./annotation_instructions_examples.pd
 ## Citation
 
 ```
-
+@inproceedings{lan-etal-2025-unit,
+    title = "{U}ni{T}: One Document, Many Revisions, Too Many Edit Intention Taxonomies",
+    author = "Lan, Fangping  and
+      Aljebreen, Abdullah  and
+      Dragut, Eduard",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.1180/",
+    pages = "23005--23024",
+    ISBN = "979-8-89176-256-5"
+}
 ```
